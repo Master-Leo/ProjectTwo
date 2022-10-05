@@ -1,4 +1,4 @@
-# ProjectTwo
+# Project Two
 
 Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evelyn Votran
 
