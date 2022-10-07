@@ -29,10 +29,10 @@ We will take in account:
 - Included Postgres SQL schemas 
 - Mapping document for target table
 
-CREATE TABLE kdrama (
-  kdrama_name VARCHAR,
-  imdb_rating INT,
-  genre VARCHAR
-);
+CREATE TABLE kdrama (<br/>
+  kdrama_name VARCHAR,<br/>
+  imdb_rating INT,<br/>
+  genre VARCHAR<br/>
+);<br/>
 
 select * from kdrama
