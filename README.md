@@ -23,6 +23,8 @@ We will take in account:
 - Transformations we applied
   - Cleaned data frame and removed users and imdb description
   - Uploaded genre file to kdrama file and cleaned data
+  - Filtered title names and deduplication to include Kdrama titles with multiple genres
   - Filtered data rating >= 8 
+  - Capitalized genre details
 - Included Postgres SQL schemas 
 - Mapping document for target table
