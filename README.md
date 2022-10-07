@@ -6,9 +6,7 @@ Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evely
 With this project we wanted to see the correlation of Kdrama popularity based on ratings and genres.
 Pulling data to show top Kdrama ratings and genres from Kaggle.
 
-Combined and cleaned 2 datasets to see relations.
-
-We will take in account:
+Combined and cleaned 2 datasets to see relations.<br/>
 - Kdrama ratings: https://www.kaggle.com/datasets/iphigeniebera/korean-drama-list-about-740-unique-dramas?select=imdb.csv
 - Popular Kdramas genres: https://www.kaggle.com/datasets/iphigeniebera/korean-drama-list-about-740-unique-dramas?select=genres.csv
 
