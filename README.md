@@ -19,7 +19,7 @@ We will take in account:
 
 ## Data
 - Dataset acquired through Kaggle 
-- Used Webtoons dataset and Kdrama dataset
+- Used imdb dataset and genres dataset
 - Transformations we applied
   - Cleaned data frame and removed users and imdb description
   - Uploaded genre file to kdrama file and cleaned data
