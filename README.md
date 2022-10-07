@@ -14,8 +14,7 @@ We will take in account:
 
 
 ## Table of Contents
-1. [Project Proposal](https://docs.google.com/document/d/1yf3VgzikdFFoSmZgqNVN4Cfhl-Mha-cLKxZxPUHUvq4/edit)
-2. [ETL Mapping Document](https://docs.google.com/spreadsheets/d/1dBTmUnmcMzCcIxrLGsUZXh9b_g1hfsFrgedWhSxD9T0/edit#gid=0)
+[ETL Mapping Document](https://docs.google.com/spreadsheets/d/1dBTmUnmcMzCcIxrLGsUZXh9b_g1hfsFrgedWhSxD9T0/edit#gid=0)
 
 
 ## Data
