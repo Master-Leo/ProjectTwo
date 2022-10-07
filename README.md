@@ -28,3 +28,11 @@ We will take in account:
   - Capitalized genre details
 - Included Postgres SQL schemas 
 - Mapping document for target table
+
+CREATE TABLE kdrama (
+  kdrama_name VARCHAR,
+  imdb_rating INT,
+  genre VARCHAR
+);
+
+select * from kdrama
