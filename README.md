@@ -22,6 +22,6 @@ We will take in account:
 - Transformations we applied
   - Cleaned data frame and removed users and imdb description
   - Uploaded genre file to kdrama file and cleaned data
-  - Filtered data rating =< 8 
+  - Filtered data rating <= 8 
 - Included Postgres SQL schemas 
 - Mapping document for target table
