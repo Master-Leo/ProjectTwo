@@ -9,8 +9,8 @@ Pulling data to show top Kdrama ratings and genres from Kaggle.
 Combined and cleaned 2 datasets to see relations.
 
 We will take in account:
-- Kdrama ratings
-- Popular Kdramas genres
+- Kdrama ratings: https://www.kaggle.com/datasets/iphigeniebera/korean-drama-list-about-740-unique-dramas?select=imdb.csv
+- Popular Kdramas genres: https://www.kaggle.com/datasets/iphigeniebera/korean-drama-list-about-740-unique-dramas?select=genres.csv
 
 
 ## Table of Contents
