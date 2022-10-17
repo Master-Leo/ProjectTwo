@@ -37,7 +37,7 @@ select * from kdrama
 
 ## Results: Top 5 Dramas
 1. If You Wish Upon Me (9.5 Rating)
-1	Reply 1988 (9.2 Rating)
-2	Standby	(9.2 Rating)
-3	Extraordinary Attorney Woo (9.1 Rating)	
-4	My Mister (9.1 Rating)
+2. Reply 1988 (9.2 Rating)
+3. Standby	(9.2 Rating)
+4. Extraordinary Attorney Woo (9.1 Rating)	
+5. My Mister (9.1 Rating)
