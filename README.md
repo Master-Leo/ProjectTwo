@@ -3,7 +3,7 @@
 Group Members:  Jeremiah Eugenio, Emilio Guzman, Kristy Le, Samantha Seng, Evelyn Votran
 
 
-With this project, we wanted to compile a list of top Korean dramas based on ratings and genres.
+Goal: Compile a list of top Korean dramas based on ratings and genres.
 Data pulled to show top Kdrama ratings and genres from Kaggle.
 
 Combined and cleaned 2 datasets to see relations.<br/>
@@ -34,3 +34,10 @@ CREATE TABLE kdrama (<br/>
 );<br/>
 
 select * from kdrama
+
+## Results: Top 5 Dramas
+1. If You Wish Upon Me (9.5 Rating)
+1	Reply 1988 (9.2 Rating)
+2	Standby	(9.2 Rating)
+3	Extraordinary Attorney Woo (9.1 Rating)	
+4	My Mister (9.1 Rating)
